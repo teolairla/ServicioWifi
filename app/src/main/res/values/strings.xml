@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServicioWifi</string>
+    <string name="btnParar">Parar</string>
+    <string name="btnArrancar">Arrancar</string>
+    <string name="ServCreatedMsg">Servicio creado.</string>
+    <string name="ServDestroyedMsg">Servicio detenido.</string>
+    <string name="ServStartedMsg">Servicio iniciado.</string>
+</resources>
